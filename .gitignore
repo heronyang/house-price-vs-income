@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# run-time data
+bayarea_zipcodes.csv
+cb_2016_us_zcta510_500k.zip
+data/
+rows.json
